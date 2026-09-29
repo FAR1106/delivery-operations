@@ -1,0 +1,8 @@
+{
+  "name": "Delivery Operations Portal",
+  "description": "Enterprise portfolio delivery, risk detection tracking, capacity forecasts, and automated status reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
